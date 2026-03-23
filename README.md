@@ -1,4 +1,4 @@
-## 👻 Hey!
+👻 Hey!
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=netra-hck&show_icons=true&theme=default&rank_icon=circle" />
 
